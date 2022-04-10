@@ -1,0 +1,24 @@
+ .img {
+    width:120px;
+    height:150px;
+    margin-bottom: 17px !important;
+    margin-top: 17px !important
+    
+   }
+
+ ul>li{
+     margin-bottom: 1em;
+ } 
+ .col{
+     border: 1px solid black;
+    
+ } 
+ .applyonselect{
+    background-color: rgb(159, 186, 209);
+ }
+
+ .primary{
+
+     width: auto;
+     line-height:30px;;
+ }
